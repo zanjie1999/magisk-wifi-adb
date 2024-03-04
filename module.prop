@@ -1,0 +1,7 @@
+id=adbd5555
+name=开机启动网络adb
+version=v1
+versionCode=1
+author=咩咩
+description=adbd端口5555
+minMagisk=17000
